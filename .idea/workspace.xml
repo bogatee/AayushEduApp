@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d14494b3-b2c5-4820-8d31-a0f00af2dd87" name="Changes" comment="define sub packages and move screens to the package screen" />
+    <list default="true" id="d14494b3-b2c5-4820-8d31-a0f00af2dd87" name="Changes" comment="define sub packages and move screens to the package screen">
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/database/AppDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/database/AppDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/database/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/screen/TestDB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/viewmodel/AppViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/viewmodel/AppViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EduApp/app/src/main/java/com/example/eduapp/MainActivity.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -46,6 +57,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EduApp" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bogatee"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bogatee/AayushEduApp.git",
+    "accountId": "a5000630-d83a-4ee2-953f-c913b9de4455"
+  }
+}]]></component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$/EduApp" gradleHome="C:\Users\aayus\.gradle\wrapper\dists\gradle-8.13-bin\5xuhj0ry160q40clulazy9h7d\gradle-8.13" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="8.13" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
